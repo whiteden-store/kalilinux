@@ -42,3 +42,9 @@ rm -rf ~/kali-arm64
 
 3 eliminar el ejecutor de instalación:
 rm ~/install-nethunter-termux
+
+script oficial de kali Linux, 
+consultar su página oficial para mas información,
+https://kali.org
+
+whiteden digital 2024©
